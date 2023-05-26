@@ -14,4 +14,4 @@ Feature:
 
     Examples: 
       | userName | password | location | hotels      | roomType | numberOfRooms | checkInDate | checkOutDate | adultsPerRoom | childrenPerRoom | firstName | lastName | billingAddress | creditCardNo     | creditCardType | expiryMonth | expiryYear | CVVNumber |
-      | tamukesh | mukeshta | Sydney   | Hotel Creek | Double   | 1 - One       | 24/09/2021  | 25/09/2021   | 1- One        | 0 - None        | QWE       | RTY      | DFGH           | 1234567891234567 | VISA           | July        |       2022 |       123 |
+      | clinton | raj | Sydney   | Hotel Creek | Double   | 1 - One       | 24/05/2023  | 26/05/2023   | 1- One        | 0 - None        | QWE       | RTY      | DFGH           | 1234567891234567 | VISA           | July        |       2026 |       123 |
